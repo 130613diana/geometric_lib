@@ -23,7 +23,3 @@ jobs:
 
       - name: Run unit tests
         run: python3 -m unittest
-name: CI Unit Tests
-
-on:
-  push:
